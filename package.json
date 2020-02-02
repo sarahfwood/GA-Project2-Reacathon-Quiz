@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "webpack-dev-server --mode=development",
     "build": "webpack -p",
-    "start": "npm run build && http-server dist"
+    "start": "http-server dist"
   },
   "author": "",
   "license": "ISC",

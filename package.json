@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "webpack-dev-server --mode=development",
     "build": "webpack -p",
-    "start": "npm run build && http-server dist"
+    "start": "npm install --dev && npm run build && http-server dist"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +20,8 @@
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
@@ -30,8 +32,6 @@
     "react-dom": "^16.7.0",
     "react-router-dom": "^5.1.2",
     "run": "^1.4.0",
-    "serve": "^11.2.0",
-    "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "serve": "^11.2.0"
   }
 }

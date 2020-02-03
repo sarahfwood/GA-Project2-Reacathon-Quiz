@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly Project 2 - Reacathon - Ten Questions
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly Project 2 - Ten Questions
 
 ## Overview
 My first hackathon, after completing our second module React.js. We were given 48 hours and allocated a partner to build an app of our choice that must consume a public API. This is my first experience at pair programming. We agreed on using a quiz generator API and set out wire framing and planning our approach.
@@ -34,6 +34,7 @@ The app must:
 * Bulma
 * JavaScript(ES2019)
 * React.js
+* Axios
 * Babel
 * Webpack
 * GitHub
@@ -46,6 +47,6 @@ The app must:
 
 
 ## Features to add/improvements
-1. 
-2. 
-3. 
+1. Styling to scoreboard and answer options
+2. Make the app mobile friendly
+3. Add highest scoreboard

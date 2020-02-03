@@ -5,6 +5,8 @@ My first hackathon, after completing our second module React.js. We were given 4
 
   <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" height="0.5" /> [Click here to play!](https://tenquestions.herokuapp.com/)
 
+<img src="https://i.imgur.com/oWCdeIb.gif" height="600" />
+
 ## Technical Requirements
 
 The app must:

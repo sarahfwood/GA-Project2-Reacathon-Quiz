@@ -3,10 +3,7 @@
 ## Overview
 My first hackathon, after completing our second module React.js. We were given 48 hours and allocated a partner to build an app of our choice that must consume a public API. This is my first experience at pair programming. We agreed on using a quiz generator API and set out wire framing and planning our approach.
 
-### How to Play
-  Firstly the player must choose from a catergory and sleect the difficulty. Then player must attempt to answer all ten questions correctly. It is a game to test the player's knowledge on a varierty of different subjjects or general knowledge.
-
-  <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" height="0.5" /> [Click here to play!]()
+  <img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" height="0.5" /> [Click here to play!](https://tenquestions.herokuapp.com/)
 
 ## Technical Requirements
 
@@ -43,13 +40,12 @@ The app must:
 
 
 ## Credits
-* https://opentdb.com/api_config.php
 * https://reactjs.org
 * https://giphy.com
 * https://gifox.io
 
 
 ## Features to add/improvements
-1. Styling to homepage
-2. Scoreboard
-3. Add a skip button to answer options
+1. 
+2. 
+3. 

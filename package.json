@@ -27,6 +27,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bulma": "^0.7.5",
+    "follow-redirects": "^1.14.7",
     "http-server": "^0.12.3",
     "kind-of": "^6.0.3",
     "react": "^16.7.0",
